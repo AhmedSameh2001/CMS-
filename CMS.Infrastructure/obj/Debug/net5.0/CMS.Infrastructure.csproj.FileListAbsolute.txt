@@ -1,0 +1,51 @@
+C:\Users\Ahmed Shalayel\source\repos\CMS\CMS.Infrastructure\bin\Debug\net5.0\CMS.Infrastructure.deps.json
+C:\Users\Ahmed Shalayel\source\repos\CMS\CMS.Infrastructure\bin\Debug\net5.0\CMS.Infrastructure.dll
+C:\Users\Ahmed Shalayel\source\repos\CMS\CMS.Infrastructure\bin\Debug\net5.0\ref\CMS.Infrastructure.dll
+C:\Users\Ahmed Shalayel\source\repos\CMS\CMS.Infrastructure\bin\Debug\net5.0\CMS.Infrastructure.pdb
+C:\Users\Ahmed Shalayel\source\repos\CMS\CMS.Infrastructure\obj\Debug\net5.0\CMS.Infrastructure.csprojAssemblyReference.cache
+C:\Users\Ahmed Shalayel\source\repos\CMS\CMS.Infrastructure\obj\Debug\net5.0\CMS.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ahmed Shalayel\source\repos\CMS\CMS.Infrastructure\obj\Debug\net5.0\CMS.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\Ahmed Shalayel\source\repos\CMS\CMS.Infrastructure\obj\Debug\net5.0\CMS.Infrastructure.AssemblyInfo.cs
+C:\Users\Ahmed Shalayel\source\repos\CMS\CMS.Infrastructure\obj\Debug\net5.0\CMS.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\Ahmed Shalayel\source\repos\CMS\CMS.Infrastructure\obj\Debug\net5.0\CMS.Infrastructure.dll
+C:\Users\Ahmed Shalayel\source\repos\CMS\CMS.Infrastructure\obj\Debug\net5.0\ref\CMS.Infrastructure.dll
+C:\Users\Ahmed Shalayel\source\repos\CMS\CMS.Infrastructure\obj\Debug\net5.0\CMS.Infrastructure.pdb
+C:\Users\Ahmed Shalayel\source\repos\CMS\CMS.Infrastructure\bin\Debug\net5.0\CMS.Data.dll
+C:\Users\Ahmed Shalayel\source\repos\CMS\CMS.Infrastructure\bin\Debug\net5.0\CMS.Data.pdb
+C:\Users\Ahmed Shalayel\source\repos\CMS\CMS.Infrastructure\obj\Debug\net5.0\CMS.Infrastructure.csproj.CopyComplete
+C:\Users\Ahmed Shalayel\source\repos\CMS\CMS.Infrastructure\bin\Debug\net5.0\CMS.Core.dll
+C:\Users\Ahmed Shalayel\source\repos\CMS\CMS.Infrastructure\bin\Debug\net5.0\CMS.Core.pdb
+C:\Users\Ahmed Shalayel\Source\Repos\CMS.Web\CMS.Infrastructure\bin\Debug\net5.0\CMS.Infrastructure.deps.json
+C:\Users\Ahmed Shalayel\Source\Repos\CMS.Web\CMS.Infrastructure\bin\Debug\net5.0\CMS.Infrastructure.dll
+C:\Users\Ahmed Shalayel\Source\Repos\CMS.Web\CMS.Infrastructure\bin\Debug\net5.0\ref\CMS.Infrastructure.dll
+C:\Users\Ahmed Shalayel\Source\Repos\CMS.Web\CMS.Infrastructure\bin\Debug\net5.0\CMS.Infrastructure.pdb
+C:\Users\Ahmed Shalayel\Source\Repos\CMS.Web\CMS.Infrastructure\bin\Debug\net5.0\CMS.Core.dll
+C:\Users\Ahmed Shalayel\Source\Repos\CMS.Web\CMS.Infrastructure\bin\Debug\net5.0\CMS.Data.dll
+C:\Users\Ahmed Shalayel\Source\Repos\CMS.Web\CMS.Infrastructure\bin\Debug\net5.0\CMS.Data.pdb
+C:\Users\Ahmed Shalayel\Source\Repos\CMS.Web\CMS.Infrastructure\bin\Debug\net5.0\CMS.Core.pdb
+C:\Users\Ahmed Shalayel\Source\Repos\CMS.Web\CMS.Infrastructure\obj\Debug\net5.0\CMS.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ahmed Shalayel\Source\Repos\CMS.Web\CMS.Infrastructure\obj\Debug\net5.0\CMS.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\Ahmed Shalayel\Source\Repos\CMS.Web\CMS.Infrastructure\obj\Debug\net5.0\CMS.Infrastructure.AssemblyInfo.cs
+C:\Users\Ahmed Shalayel\Source\Repos\CMS.Web\CMS.Infrastructure\obj\Debug\net5.0\CMS.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\Ahmed Shalayel\Source\Repos\CMS.Web\CMS.Infrastructure\obj\Debug\net5.0\CMS.Infrastructure.csproj.CopyComplete
+C:\Users\Ahmed Shalayel\Source\Repos\CMS.Web\CMS.Infrastructure\obj\Debug\net5.0\CMS.Infrastructure.dll
+C:\Users\Ahmed Shalayel\Source\Repos\CMS.Web\CMS.Infrastructure\obj\Debug\net5.0\ref\CMS.Infrastructure.dll
+C:\Users\Ahmed Shalayel\Source\Repos\CMS.Web\CMS.Infrastructure\obj\Debug\net5.0\CMS.Infrastructure.pdb
+C:\Users\Ahmed Shalayel\source\repos\CMS.Web\CMS.Infrastructure\obj\Debug\net5.0\CMS.Infrastructure.csprojAssemblyReference.cache
+C:\Users\ahmed\source\repos\CMS\CMS.Infrastructure\obj\Debug\net5.0\CMS.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\ahmed\source\repos\CMS\CMS.Infrastructure\obj\Debug\net5.0\CMS.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ahmed\source\repos\CMS\CMS.Infrastructure\obj\Debug\net5.0\CMS.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\ahmed\source\repos\CMS\CMS.Infrastructure\obj\Debug\net5.0\CMS.Infrastructure.AssemblyInfo.cs
+C:\Users\ahmed\source\repos\CMS\CMS.Infrastructure\obj\Debug\net5.0\CMS.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\ahmed\source\repos\CMS\CMS.Infrastructure\obj\Debug\net5.0\CMS.Infrastructure.dll
+C:\Users\ahmed\source\repos\CMS\CMS.Infrastructure\obj\Debug\net5.0\CMS.Infrastructure.pdb
+C:\Users\ahmed\source\repos\CMS\CMS.Infrastructure\bin\Debug\net5.0\CMS.Infrastructure.deps.json
+C:\Users\ahmed\source\repos\CMS\CMS.Infrastructure\bin\Debug\net5.0\CMS.Infrastructure.dll
+C:\Users\ahmed\source\repos\CMS\CMS.Infrastructure\bin\Debug\net5.0\CMS.Infrastructure.pdb
+C:\Users\ahmed\source\repos\CMS\CMS.Infrastructure\bin\Debug\net5.0\CMS.Core.dll
+C:\Users\ahmed\source\repos\CMS\CMS.Infrastructure\bin\Debug\net5.0\CMS.Data.dll
+C:\Users\ahmed\source\repos\CMS\CMS.Infrastructure\bin\Debug\net5.0\CMS.Data.pdb
+C:\Users\ahmed\source\repos\CMS\CMS.Infrastructure\bin\Debug\net5.0\CMS.Core.pdb
+C:\Users\ahmed\source\repos\CMS\CMS.Infrastructure\obj\Debug\net5.0\CMS.Infrastructure.csproj.CopyComplete
+C:\Users\ahmed\source\repos\CMS\CMS.Infrastructure\obj\Debug\net5.0\refint\CMS.Infrastructure.dll
+C:\Users\ahmed\source\repos\CMS\CMS.Infrastructure\obj\Debug\net5.0\ref\CMS.Infrastructure.dll
